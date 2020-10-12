@@ -9,7 +9,10 @@ When these matches started it seemed like the odds given for a draw were far too
 The data I wanted to collect was match results and the prematch odds offered. 
 
 ### Data Analysis
-My Analysis showed very profitable results. When looking at just the last 50 matches between two opponents, if there is a number of draws which have implied odds that are higher than the bookmakers odds, then this is a profitable bet. To add to this, the bigger discrepency between the projected odds and then bookmakers odds leads to a higher return on investment (roi). This is shown below in the first image. The second image shows the high correlation between my projected ROI, and the actual ROI. For example, when I only place bets where I believe I will have a 20% ROI, then the actual ROI will be around 20%.
+My Analysis showed very profitable results. When looking at just the last 50 matches between two opponents, if there is a number of draws which have implied odds that are higher than the bookmakers odds, then this is a profitable bet. To add to this, the bigger discrepency between the projected odds and then bookmakers odds leads to a higher return on investment (roi). This is shown below in the first image. The second image shows the high correlation between my projected ROI, and the actual ROI. For example, when I only place bets where I believe I will have a 50% ROI, then the actual ROI will be around 50% (in this case it is 39%).
 
 <img width="455" alt="Screenshot 2020-10-12 at 12 37 01" src="https://user-images.githubusercontent.com/72214007/95737272-b57e3e80-0c87-11eb-88b9-3043fc59aca7.png">
 <img width="439" alt="Screenshot 2020-10-12 at 12 37 53" src="https://user-images.githubusercontent.com/72214007/95737311-c6c74b00-0c87-11eb-8c78-8a7835b65a46.png">
+
+### Conclusions and Results of Betting
+I conducted this analysis after the first month of these types of games being available to bet on. I have since made over £20,000 from these matches. The one real world drawback, is the limits for betting on these matches are low, and the chance that bookmakers allow you to continue betting on these games without staking is low. This leads to the potential profits being relatively small, but this is also the reason why I was happy to publish this work!
